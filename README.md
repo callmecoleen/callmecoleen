@@ -1,6 +1,5 @@
 - 👋 Hi, I’m coleen
 - 👀 I’m interested in web design
-- 🌱 I’m currently learning php and javascript
 - 💞️ I’m looking to collaborate on ui/ux web design
 - 📫 How to reach me cdg.is.working@gmail.com
 - ⚡ Fun fact: i like video games and making pixel arts 
